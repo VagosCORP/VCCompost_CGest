@@ -6,6 +6,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/VCCompost_IDE"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/VCCompost_Tablet"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/VCCompost_VagonControl"/>
-	<classpathentry kind="lib" path="J:/Documents/Eclipse Workspaces/Android Projects/Communication/Communication.jar"/>
+	<classpathentry kind="lib" path="J:/Documents/Eclipse Workspaces/Java Projects/JCommunication/Communicationx86.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
